@@ -1,0 +1,43 @@
+.menu
+{
+    width: 90%;
+    height: 35%;
+
+    background-color: rgb(39, 39, 39);
+
+    margin-top: 20px;
+    border: 0.5px solid #ccc;
+    border-radius: 15px;
+
+    align-items: center;
+}
+
+.menu li
+{
+    list-style: none;
+
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    padding: 20px 0px;
+
+    /* border-bottom: 1px solid #ccc; */
+
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+#last_li
+{
+    border: none;
+}
+
+.menu hr
+{
+    color: #ccc;
+}
+
+.menu li:hover
+{
+    transform: scale(0.9);
+}
