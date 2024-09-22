@@ -1,0 +1,38 @@
+.stem
+{
+    width: 62vw;
+    height: 100vh;
+
+    position: relative;
+    left: 18%
+}
+
+.cab_main
+{
+    height: 10%;
+    width: 62vw;
+
+    position: fixed;
+    border-bottom: 2px solid #858484;
+
+    padding: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.cab_main h1
+{
+    margin-left: 5%;
+
+    font-size: 250%;
+
+    letter-spacing: 1px;
+}
+
+.Feed
+{
+    position: relative;
+    top: 10%;
+
+    height: 90%;
+}
