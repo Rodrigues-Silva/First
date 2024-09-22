@@ -17,11 +17,11 @@
 
     font-size: 17px;
 
-    border: 2px solid rgb(12, 12, 201);
+    border: 2px solid rgb(15, 12, 201);
     border-radius: 25px;
 
     background-color: rgb(48, 47, 47);
-    color: rgb(109, 109, 253);
+    color: rgb(252, 252, 252);
 
     transition: 0.5s;
 }
