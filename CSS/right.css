@@ -1,0 +1,14 @@
+.right
+{
+    width: 20vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+
+    border-left:  1px solid #858484;
+    padding-left: 1%;
+
+    position: fixed;
+    left: 80%;
+}
